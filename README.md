@@ -23,7 +23,9 @@ or Discord (Wambo#0800)
 
 ***
 
+<small>🤍 Thank you to everyone who helped me getting into programming back in 2018 🤍</small>
 <small>Inspired by [@vbe0201](https://github.com/vbe0201/)'s readme 🤍</small>
+
 
 <!--
 **byWambo/byWambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
