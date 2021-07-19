@@ -6,7 +6,8 @@
   <strong><a href="https://www.twitch.tv/Wamboosu">Twitch</a></strong>
 </p>
 
-<h2 align="center">About Me</h2>
+<li>
+  <ul><b>About Me</b></ul></li>
 <li>
 <b>Name:</b> Matthias</li>
 <li>
@@ -14,9 +15,6 @@
 </li>
 <li>
 <b>Hobbys:</b> Programming, Gaming, Designing
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat | snens.team
 </li>
 
 <!--
