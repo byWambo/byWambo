@@ -4,9 +4,11 @@
 
 <img align="right" alt="Nakiri Ayame GIF" src="https://i.redd.it/e4ojwd4y6ch51.gif" width="398px">
 
-Welcome to my profile! I am a learning application developer from **Munich, Germany** and love 
+Welcome to my profile! I am a learning software developer from **Munich, Germany** and love 
 writing scripts, programming Windows based applications and creating websites. Not only technology 
 interests me so much, but also the gaming and anime/manga scene. 
+
+
 
 **A few things about myself:**
 
