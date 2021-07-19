@@ -1,8 +1,8 @@
 <!-- Inspired by @vbe0201 (https://github.com/vbe0201/) <3 -->
-### Hey there, I'm Matthias <img src="https://i.redd.it/e4ojwd4y6ch51.gif" width="30px">
+### Hey there, I'm Matthias <img src="media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
-<img align="right" alt="Nakiri Ayame GIF" src="https://tenor.com/bkcI9.gif" width="398px">
+<img align="right" alt="Nakiri Ayame GIF" src="https://i.redd.it/e4ojwd4y6ch51.gif" width="398px">
 
 Welcome to my profile! I'm a learning software engineer from **Munich, Germany!** Currently I'm interested 
 in writing scripts for every possible matter, building bots for social media, developing software and 
