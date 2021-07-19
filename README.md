@@ -8,7 +8,7 @@ Welcome to my profile! I am a learning software developer from **Munich, Germany
 writing scripts, programming Windows based applications and creating websites. Not only technology 
 interests me so much, but also the gaming and anime/manga scene. 
 
-
+***
 
 **A few things about myself:**
 
