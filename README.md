@@ -1,21 +1,15 @@
-<h1 align="center">Hi there, I'm Matthias! 👋</h1>
+<!-- Inspired by @vbe0201 (https://github.com/vbe0201/) <3 -->
+### Hey there, I'm Matthias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<p align="center">
-  <strong><a href="https://twitter.com/DevWambo">Twitter</a></strong> |
-    <strong><a href="https://ainu.wambo-dev.eu">AINU Website</a></strong> |
-  <strong><a href="https://www.twitch.tv/Wamboosu">Twitch</a></strong>
-</p>
 
-<li>
-  <ul><b>About Me</b></ul></li>
-<li>
-<b>Name:</b> Matthias</li>
-<li>
-<b>Gender:</b> he/him/Male
-</li>
-<li>
-<b>Hobbys:</b> Programming, Gaming, Designing
-</li>
+<img align="right" alt="Nakiri Ayame GIF" src="https://media1.tenor.com/images/5885d2a9213cd7ad64a762bd20208a0d/tenor.gif" width="398px">
+
+Welcome to my profile! I'm a learning software engineer from **Munich, Germany!** Currently I'm interested in
+writing scripts for every possible matter, building bots for social media, developing software and building internal 
+cheats. Aside from IT, I enjoy reading Mangas, watching Animes and playing Games: espacially <a href="https://osu.ppy.sh/users/Wambosu">osu!</a> and CS:GO.
+
+
+Still wip
 
 <!--
 **byWambo/byWambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
