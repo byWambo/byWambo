@@ -14,7 +14,7 @@ interests me so much, but also the gaming and anime/manga scene.
 
 - 😵 I love to start projects, but not to finish them
 
-- ✨ I'm not the best but I try to learn everythinc correctly and good
+- ✨ I'm not the best but I try to learn everything correctly and good
 
 - 🧐 Learning about gaming hacking
 
