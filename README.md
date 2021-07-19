@@ -21,6 +21,8 @@ interests me so much, but also the gaming and anime/manga scene.
 - 📫 Reach out to me via [Twitter](https://twitter.com/Wambosu)
 or Discord (Wambo#0800)
 
+***
+
 <small>Inspired by [@vbe0201](https://github.com/vbe0201/)'s readme 🤍</small>
 
 <!--
