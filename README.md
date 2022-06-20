@@ -1,5 +1,5 @@
 <!-- Inspired by @vbe0201 (https://github.com/vbe0201/) <3 -->
-### Hey there, I'm Matthias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey there, I'm Matthias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
 
 <img align="right" alt="Nakiri Ayame GIF" src="https://i.redd.it/e4ojwd4y6ch51.gif" width="398px">
